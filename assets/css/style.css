@@ -1,0 +1,73 @@
+body{
+  margin: 0px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header{
+  height: 15em;
+  background-image: url("../imgs/fondo.jpg");
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 1em;
+}
+body{
+
+  background-color: rgb(184, 200, 200);
+}
+
+.header h1{
+  font-weight: 400;
+  padding-top: 2em;
+  padding-left: 3em;
+
+}
+.header p{
+padding-left: 6em;
+font-size: 1em;
+margin-top: 0em;
+
+}
+.header .main-text{
+  padding: 3em;
+  font-size: 2em;
+  font-weight: 400;
+}s
+
+.img1 {
+
+padding: 3em;
+margin: 1em;  
+width: 400px;
+}
+
+.main {
+  width: 80%;
+  margin: auto;
+}
+
+.img1 pd{
+  padding-left: 25em;
+  font-size: 1em;
+  margin-top: 0em;
+
+}
+.main td{
+  width: 50%;
+  padding: 2em;
+}
+
+.main img{
+  
+  max-width: 50%;
+  border: solid 1px #ddd;
+}
+
+.footer{
+  font-style: oblique;
+  height: 3em;
+  line-height: 3em;
+  background-color: rgb(185, 112, 41);
+  color: white;
+  text-align: center;
+  font-weight: 900;
+}
